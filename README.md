@@ -1,2 +1,2 @@
 # Typescript_Learning
-Some codes while learning typescript
+Some codes while learning typescript.
